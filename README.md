@@ -72,7 +72,7 @@ This project contains Python scripts that demonstrate how to use both LLMWhisper
 
    **To get a LLMWhisperer API key:**
 
-   - Visit [LLMWhisperer](https://llmwhisperer.unstract.com/)
+   - Visit [LLMWhisperer](https://unstract.com/llmwhisperer/)
    - Sign up or log in to your account
    - Navigate to the API keys section
    - Generate a new API key
