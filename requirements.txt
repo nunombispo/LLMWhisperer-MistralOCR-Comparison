@@ -1,0 +1,3 @@
+mistralai
+llmwhisperer-client
+python-dotenv
