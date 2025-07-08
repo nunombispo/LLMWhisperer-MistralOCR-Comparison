@@ -1,4 +1,4 @@
-# LLMWhisperer-MistralOCR-Comparison
+# LLMWhisperer vs MistralOCR
 
 A project to compare and demonstrate OCR (Optical Character Recognition) capabilities between LLMWhisperer and Mistral AI's OCR API.
 
